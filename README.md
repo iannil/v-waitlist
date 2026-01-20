@@ -1,5 +1,7 @@
 # V-Waitlist
 
+[中文版](./README.zh-CN.md)
+
 <div align="center">
 
 > The open-source, serverless viral waiting list for indie hackers

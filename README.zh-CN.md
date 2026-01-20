@@ -1,5 +1,7 @@
 # V-Waitlist
 
+[English](./README.md)
+
 <div align="center">
 
 > 面向独立开发者的开源、无服务器病毒式等待名单系统
