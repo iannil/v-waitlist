@@ -85,7 +85,7 @@ export default function HomePage() {
       <section id="demo" style={styles.demo}>
         <h2 style={styles.sectionTitle}>Live Demo</h2>
         <p style={styles.demoDesc}>
-          Try the widget below. This is the same widget you'll use on your site.
+          Try the widget below. This is the same widget you&apos;ll use on your site.
         </p>
         <div style={styles.demoWidget}>
           {/* This would be the actual widget in production */}
@@ -95,7 +95,7 @@ export default function HomePage() {
                 🎉 <strong>v-waitlist</strong> widget loads here
               </p>
               <code style={styles.code}>
-                &lt;v-waitlist project-id="demo"&gt;&lt;/v-waitlist&gt;
+                &lt;v-waitlist project-id=&quot;demo&quot;&gt;&lt;/v-waitlist&gt;
               </code>
             </div>
           </div>

@@ -1,10 +1,13 @@
 /**
- * API Tests for /api/join
+ * API Integration Tests for /api/join
  *
- * These tests can be run with:
- * pnpm --filter @v-waitlist/api test
+ * IMPORTANT: These tests require the dev server to be running first.
  *
- * Or manually with curl after starting the dev server.
+ * To run tests:
+ * 1. Terminal 1: pnpm --filter @v-waitlist/api dev
+ * 2. Terminal 2: pnpm --filter @v-waitlist/api test
+ *
+ * Or manually test with curl after starting the dev server.
  */
 
 import { describe, it, expect, beforeAll, afterAll } from 'vitest';
